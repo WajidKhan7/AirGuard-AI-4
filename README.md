@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AirGuard AI — Air Quality Machine Learning System
 
 A Python-only desktop application that trains and applies three ML models —
@@ -234,3 +235,7 @@ airquality_ml/
   Windows directly — if you hit a platform-specific issue (most likely
   around Tkinter's DPI scaling or file-dialog behavior), it should be a
   small fix, not a rewrite.
+=======
+# AirGuard-AI-2
+A Python-based machine learning application for air quality classification, anomaly detection, and pollutant forecasting. Features automated data preprocessing, model training, performance evaluation, and an interactive Tkinter desktop dashboard for air quality analysis.
+>>>>>>> 6c310535443fcad722145563ebf879aa79b1af47
