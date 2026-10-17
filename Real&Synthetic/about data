@@ -1,0 +1,15 @@
+# Datasets Used in AirGuard
+
+## 1. Real-World Air Quality Dataset
+
+**Dataset Name:** Pakistan Air Quality and Weather (10 Cities)
+
+**Kaggle Link:** https://www.kaggle.com/datasets/ahsanneural/pakistan-air-quality-and-weather-10-cities
+
+This dataset contains hourly air-quality and weather observations from ten cities in Pakistan. It includes pollutant measurements such as PM2.5, PM10, CO, NO₂, SO₂, and O₃, along with temperature and humidity. These measurements help analyze pollution levels and examine the relationship between weather conditions and air quality. The dataset was used as a real-world data source for preprocessing, model training, testing, and air-quality classification. Data preparation helps ensure that the records are in a suitable format for machine-learning models.
+
+## 2. Synthetic Air Quality Dataset
+
+**Source:** Generated programmatically for the project.
+
+Synthetic data was created to supplement the real-world dataset and provide additional examples for machine-learning experiments. The data-generation process uses predefined numerical ranges and variations for air pollutants and weather-related features to produce plausible air-quality records. These records can support model development, pipeline testing, and evaluation of data-processing procedures. Synthetic data is not collected from actual monitoring stations and should not be treated as genuine environmental measurements. The models should also be tested on separate real-world data to assess their performance under actual conditions.
